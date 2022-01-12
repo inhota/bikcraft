@@ -4,4 +4,8 @@
 @import "./global/header.css";
 
 @import "./utilidades/componentes.css";
+
 @import "./home/introducao.css";
+
+/* Bicicletas */
+@import "./bicicletas/bicicletas-listas.css";
