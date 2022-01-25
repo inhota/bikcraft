@@ -19,6 +19,7 @@
 
 /* Bicicletas */
 @import "./bicicletas/bicicletas-listas.css";
+@import "./bicicletas/bicicleta.css";
 
 /* Termos */
 @import "./termos/termos.css";
